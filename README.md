@@ -33,6 +33,11 @@ create-react-app my-app
 This command will generate everything you need to start using the new ReactJS application.
 
 
+# Install bootstrap
+```
+npm i bootstrap
+```
+
 
 
 
