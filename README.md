@@ -41,6 +41,19 @@ npm i bootstrap
 ```
 
 
+# Install prop-types
+
+Runtime type checking for React props and similar objects.
+
+You can use prop-types to document the intended types of properties passed to components. React (and potentially other libraries—see the checkPropTypes() reference below) will check props passed to your components against those definitions, and warn in development if they don’t match.
+
+```
+npm i prop-types
+```
+
+
+
+
 
 
 
