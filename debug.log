@@ -1,0 +1,13 @@
+[1012/231844.929:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1013/003558.752:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.754:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.754:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.755:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.755:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.755:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.755:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.756:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1013/003558.756:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1013/003558.763:ERROR:exception_snapshot_win.cc(99)] thread ID 8300 not found in process
+[1013/235554.598:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1016/092946.676:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
