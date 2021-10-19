@@ -1,9 +1,12 @@
 
 
 
+# React-Cards-React-Bootstrap  [:arrow_right: PREVIEW :arrow_left:](https://erik161.github.io/React-Cards-React-Bootstrap/) 
 
 
 
+
+![fallo](https://user-images.githubusercontent.com/26189854/137983352-df559f70-7467-41d3-8507-9361ff97cc02.gif)
 
 
 
