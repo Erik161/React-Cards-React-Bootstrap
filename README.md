@@ -81,5 +81,7 @@ It runs npm run build and then starts getting the gh-pages -d build command to t
 npm run deploy
 ```
 
+To make changes to the REACT application, first load the changes with GIT and then run the <strong>npm run deploy</strong> command to see the changes.
+
 
 
