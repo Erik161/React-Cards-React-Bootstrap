@@ -72,7 +72,14 @@ npm i gh-pages
 ```
 
 
+# npm run deploy
 
+It runs npm run build and then starts getting the gh-pages -d build command to tell it that the build folder is the one to deploy and with this once finished it will send me a POSTED message.
+
+
+```
+npm run deploy
+```
 
 
 
