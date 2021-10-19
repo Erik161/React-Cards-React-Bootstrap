@@ -54,7 +54,13 @@ npm i prop-types
 
 
 
+# Install Animate.css
 
+Animate.css supports the prefers-reduced-motion media query so that users with motion sensitivity can opt out of animations. On supported platforms (currently all the majors browsers and OS), users can select "reduce motion" on their operating system preferences and it will turn off CSS transitions for them without any further work required.
+
+```
+npm i animate.css
+```
 
 
 
