@@ -67,9 +67,9 @@ npm i animate.css
 # Install gh pages npm
 Publish files to a gh-pages branch on GitHub (or any other branch anywhere else).
 
-
-
-
+```
+npm i gh-pages
+```
 
 
 
